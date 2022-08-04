@@ -1,3 +1,5 @@
+# Flips a coin and outputs how many times it was heads/tails.
+
 import random
 
 def flip(times):
